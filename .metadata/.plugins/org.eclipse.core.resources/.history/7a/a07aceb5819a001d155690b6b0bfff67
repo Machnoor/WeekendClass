@@ -1,0 +1,27 @@
+package TestAutomation;
+
+public class strings {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+String x ="Automation Testing";
+System.out.println(x);
+
+String FN = "Achala";
+String SN = "Machnoor";
+System.out.println(FN+" "+SN);
+System.out.println(FN.toLowerCase());
+System.out.println(FN.toUpperCase());
+int x ,y;
+x= 950;
+y= 150;
+
+System.out.println(x==y);  
+System.out.println(x!=y); 
+System.out.println(x<y);  
+System.out.println(x>y);
+System.out.println(x>=y); 
+System.out.println(x<=y);  
+	}
+
+}

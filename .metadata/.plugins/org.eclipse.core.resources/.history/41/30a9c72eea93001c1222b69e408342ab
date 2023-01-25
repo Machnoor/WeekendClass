@@ -1,0 +1,13 @@
+package code1;
+
+public class Testcode1 {
+int a=10;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("dfgsdfgsdfg");
+		System.out.println("a");
+		System.out.println(20);
+	}
+
+}

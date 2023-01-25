@@ -1,0 +1,59 @@
+package code1;
+
+public class Testcode1 {
+
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("string");
+	
+		/* ----------------------------------
+		 * this is comment for 
+		 * paragragh
+		---------------------------------------------------- */
+		
+		/*------------------------------------------------
+		//Add two numbers
+		int a=5;
+		int b=19; 
+		int c = a+b;
+		
+		System.out.println(a);
+		System.out.println(b);
+		System.out.println(c);
+		---------------------------------------------------*/
+		
+		
+		/*-------------------------------------------------
+		//Add two number, subtract, multiply and division
+		
+		int a ,b,add,sub,mul,div;
+		a = 20;
+		b = 5;
+		add = a+b;
+		sub = a-b;
+		mul = a*b;
+		div = a/b;
+		System.out.println(add);
+		System.out.println(sub);
+		System.out.println(mul);
+		System.out.println(div);
+		---------------------------------------*/
+		
+		int a;
+		double num;
+		char alph;
+		boolean t = true;
+		boolean f = false;
+		
+		a=10;
+		num= 100.34;
+		alph ='A';
+		System.out.println(a);
+		System.out.println(num);
+		System.out.println(alph);
+		System.out.println(t);
+		System.out.println(f);
+	}
+
+}
